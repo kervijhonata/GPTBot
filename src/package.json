@@ -1,0 +1,19 @@
+{
+  "name": "telegram-gpt-bot",
+  "version": "1.0.0",
+  "description": "A telegram chatbot that connects with ChatGPT",
+  "main": "../dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chatbot",
+    "telegram",
+    "chat",
+    "bot",
+    "gpt",
+    "chatgpt"
+  ],
+  "author": "Kervi Jhonata",
+  "license": "ISC"
+}
